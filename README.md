@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @francoansaldi7
-- 👀 I’m interested in learning how to code
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on any project
+- 👀 I’m interested in learning about the IT world
+- 🌱 I’m currently learning JavaScript, HTML, CSS, Git & GitHub, Agile learning 
+- 💞️ I’m looking to collaborate on any project to get my first real-world experience in the field
 - 📫 How to reach me: +59898338638 or fansaldi7@gmail.com
 
 <!---
