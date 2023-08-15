@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @francoansaldi7
-- 👀 I’m interested in learning about the IT world and gaining experience in the field
-- 🌱 I’m currently learning JavaScript, MySQL, JAVA, HTML 5, CSS, SCSS, Bootstrap, Git & GitHub, Agile learning 
-- 💞️ I’m looking to grow as a professional in the IT industry
+- 👀 I’m interested in collaborating on new and exciting projects!  
+- 🌱 I’m currently learning MySQL, JAVA with Spring Boot and Maven, JavaScript & React JS, Apex Salesforce, SOSL & SOQL, Aura & Lightning Web Components
+- 💞️ I’m looking to grow as a professional on the IT industry, currently working as a Salesforce Developer for TCS.
 - 📫 How to reach me: +59898338638 or fansaldi7@gmail.com
 
 <!---
