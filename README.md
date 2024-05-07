@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @francoansaldi7
+- 👋 Hi, I’m @francoansaldi7 Full Stack Developer / Salesforce Developer
 - 👀 I’m interested in collaborating on new and exciting projects!  
-- 🌱 Currently learning MySQL, JAVA with Spring Boot and Maven, JavaScript, React JS, Apex Salesforce, SOSL & SOQL, Aura & Lightning Web Components
-- 💞️ I’m looking to grow as a professional on the IT industry, currently working as a Salesforce Developer for TCS.
+- 🌱 Currently coursing Front End Specialization from Digital House
+- 💞️ Looking forward to grow as a professional on the IT industry, currently working as a Salesforce Developer for TCS.
 - 📫 How to reach me: +59898338638 or fansaldi7@gmail.com
 
 <!---
